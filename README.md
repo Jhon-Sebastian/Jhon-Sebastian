@@ -1,4 +1,7 @@
-### Hi i am Sebastian 👋
+# Hi i am Sebastian 👋
+
+## About me in code
+
 ```js
 const Sebastian = {
   pronouns: "hi" | "him",
@@ -9,7 +12,13 @@ const Sebastian = {
   challenge: "I am doing the 100% on java and javascript"
 }
 ```
+
+### Some stats about my Github
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon-Sebastian)
+
+
+
 
 <!--
 **Jhon-Sebastian/Jhon-Sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
