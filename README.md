@@ -3,7 +3,9 @@
 const Sebastian = {
   pronouns: "hi" | "him",
   code: [Java, HTML, CSS, Javascript],
-  tools: [Spring-Boot, Mysql, Angular, Boostrap],
+  frameworks: [Spring-boot,Angular],
+  tools: [Intellij, Visual Studio Code, Potsman, ],
+  bd: [Mysql,Potsgres],
   challenge: "I am doing the 100% on java and javascript"
 }
 ```
