@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi i am Sebastian 👋
+```js
+const Sebastian = {
+  pronouns: "hi" | "him",
+  code: [Java, HTML, CSS, Javascript],
+  tools: [Spring-Boot, Mysql, Angular, Boostrap],
+  challenge: "I am doing the 100% on java and javascript"
+}
+```
 
 <!--
 **Jhon-Sebastian/Jhon-Sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
