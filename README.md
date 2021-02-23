@@ -1,6 +1,6 @@
 # Hi i am Sebastian 👋
 
-## About me in code
+### About me in code
 
 ```js
 const Sebastian = {
