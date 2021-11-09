@@ -15,10 +15,9 @@ const Sebastian = {
 
 ### Some stats about my Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon-Sebastian)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Jhon-Sebastian&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Sebastian&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <!--
 **Jhon-Sebastian/Jhon-Sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
