@@ -8,7 +8,7 @@ const Sebastian = {
   code: [Java, HTML, CSS, Javascript],
   frameworks: [Springboot,Angular],
   tools: [Intellij, Visual Studio Code, Potsman, ],
-  bd: [Mysql,Potsgres],
+  bd: [Mysql,Potsgres,SqlServer],
   challenge: "I am doing the 100% on java and javascript"
 }
 ```
